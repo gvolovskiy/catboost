@@ -54,7 +54,7 @@ The native {{ product }} model file ({{ yandex-specific__model_ops__EConvertMode
 
   {% cut "save_snapshot" %}
 
-   `save_snapshot`
+   `snapshot_file`
 
    The name of the file to save the training progress information in. This file is used for [recovering training after an interruption](../features/snapshots.md).
 
